@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xavi-pi
-- 👀 I’m interested in Language Processing (ASR and NLP), but I'm often distracted by shiny side projects
+- 👀 I’m interested in the intersection of Language Processing (ASR and NLP) and content design
 - 🌱 I’m currently learning how to live
 - 💞️ I’m looking to collaborate on making the world a better place
 - 📫 How to reach me: email
